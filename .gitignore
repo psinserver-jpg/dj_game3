@@ -1,0 +1,14 @@
+# 로컬 도구 설정
+.claude/
+.vscode/
+.idea/
+
+# 생성 로그 / 캐시
+*.log
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
